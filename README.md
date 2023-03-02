@@ -4,11 +4,8 @@ This is a React music player that allows users to play and manage their favorite
 
 ## Features
 
-- Play, pause, skip and rewind tracks
-- Shuffle and repeat options
-- Volume control
+- Play, pause tracks
 - Progress bar with time display
-- Song list with search and filtering options
 - Responsive design for mobile and desktop
 
 ## Installation
